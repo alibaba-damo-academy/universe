@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.egg-info
+dist/
+build/
+
+.vscode/
+results*
+
+core-*
+
+.ipynb_checkpoints/

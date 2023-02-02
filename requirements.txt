@@ -1,0 +1,12 @@
+numpy==1.20.2
+matplotlib==3.4.3
+torch==1.9.1
+torchvision==0.10.1
+protobuf==3.19.1
+tensorboardX==2.1
+memory_profiler==0.60.0
+pyyaml==5.4.1
+rldev==0.0.2
+ray==1.13.0
+networkx==2.5
+shapely==1.7.1
