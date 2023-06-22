@@ -66,6 +66,10 @@ class ScenarioIntersection(Scenario):
             for st in sts:
                 spawn_transforms[st] = global_path
             
+            ### @todo: remove
+            sts_extra = global_path.transforms[45]
+            spawn_transforms[sts_extra] = global_path
+
         ### @todo: remove future
         def shuffle_dict(a: Dict):
             import random
