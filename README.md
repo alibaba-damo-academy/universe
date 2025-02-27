@@ -35,4 +35,3 @@ python run_env.py --render
 
 <p align="center"><img src="./docs/empty_scenario_zone.png" width="90%"><br><em>The initial poses (makred as black arrows) and interaction zone (marked as gray rectangles) of each scenario.</em></p>
 
-

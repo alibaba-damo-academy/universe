@@ -16,6 +16,13 @@ class ColorLib(Enum):
     grey = (190, 190, 190)
     dim_grey = (105, 105, 105)
 
+    LimeGreen = (50, 205, 50)
+    DeepSkyBlue = (0, 191, 255)
+    LightSkyBlue1 = (176, 226, 255)
+    MediumPurple = (147, 112, 219)
+    Plum1 = (255, 187, 255)
+    LightPink = (255, 182, 193)
+
 
     butter_0 = (252, 233, 79)
     butter_1 = (237, 212, 0)

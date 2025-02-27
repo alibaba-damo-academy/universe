@@ -106,4 +106,3 @@ class ScenarioIntersection(Scenario):
         dist = np.hypot(self.center.y - state.y, self.center.x - state.x)
         return dot * dist < -12.5
 
-

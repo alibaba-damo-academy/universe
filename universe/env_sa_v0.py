@@ -20,7 +20,6 @@ class AgentMode(Enum):
 
 
 
-
 class SingleAgentBoxSpace(object):
     def __init__(self, low, high, shape, dtype):
         self.low = low

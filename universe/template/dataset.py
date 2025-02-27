@@ -11,7 +11,6 @@ from .. import Recorder
 
 
 
-
 class DatasetInteractive(object):
     def __init__(self, config: rldev.YamlConfig, env_index, dataset_dir=None):
         self.config = config

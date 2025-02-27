@@ -53,4 +53,3 @@ class ScenarioRandomization(object):
             scenario_randomization = pickle.load(f)
         return scenario_randomization
 
-
